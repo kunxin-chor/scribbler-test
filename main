@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "name": "01-basic",
+    "name": "02-operators",
     "language_info": {
       "name": "JavaScipt",
       "version": "8.0"
@@ -9,9 +9,9 @@
   "jsnbversion": "v0.1",
   "cells": [
     {
-      "code": "scrib.show(\"Hello world!\")",
-      "status": "[2]<br><span style=\"font-size:8px\">0ms<span></span></span>",
-      "output": "Hello world! <br>",
+      "code": "",
+      "status": "",
+      "output": "",
       "type": "code"
     }
   ],
